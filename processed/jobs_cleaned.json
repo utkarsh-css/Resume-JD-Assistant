@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. assist in coding and debugging applications; learn and apply .net framework and core fundamentals; support team in building asp.net mvc web applications; write basic sql queries and work with entity framework; collaborate with peers to solve issues; participate in code reviews for learning; follow best practices in coding; work with version control (git)"
+  },
+  {
+    "id": 2,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. write simple c# programs under guidance; support development of asp.net mvc applications; implement razor views and front-end logic; assist in database query writing; participate in unit testing tasks; learn and apply linq for data operations; work with mentors for code corrections"
+  },
+  {
+    "id": 3,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. contribute to development of small modules; assist in bug fixing and debugging; learn and implement mvc patterns; support database integration tasks; understand version control basics; work on minor testing scripts; follow coding standards"
+  },
+  {
+    "id": 4,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. support in software design documentation; assist senior developers in testing; create small ui components; debug and test applications; implement basic linq queries; participate in code maintenance"
+  },
+  {
+    "id": 5,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. learn to design and build asp.net applications; assist in connecting apps to sql server; work on ui development; participate in daily standups; write small unit test cases"
+  },
+  {
+    "id": 6,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. assist in razor page development; learn version control processes; perform debugging under supervision; support data access layer coding; contribute to testing efforts"
+  },
+  {
+    "id": 7,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. support team in mvc project development; help in resolving minor bugs; write basic sql queries; collaborate with developers for tasks; participate in project discussions"
+  },
+  {
+    "id": 8,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. assist in building backend modules; learn and apply entity framework; help in writing linq queries; support bug fixing; write basic documentation"
+  },
+  {
+    "id": 9,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. write simple asp.net pages; collaborate with design team; assist in database operations; perform code reviews with seniors; learn about mvc patterns"
+  },
+  {
+    "id": 10,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. support new feature development; assist with application configuration; help in database schema setup; perform small unit testing tasks; follow agile methodology basics"
+  },
+  {
+    "id": 11,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. design and develop advanced .net applications; implement microservices with asp.net core; manage sql server database performance; develop rest apis; deploy applications using docker; integrate with azure cloud services"
+  },
+  {
+    "id": 12,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. architect scalable .net core solutions; implement design patterns in projects; lead database optimization efforts; manage ci/cd pipelines with azure devops; collaborate with cross-functional teams"
+  },
+  {
+    "id": 13,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. develop microservices architecture; work with docker and kubernetes for deployment; integrate with azure services; lead junior developers; optimize application performance"
+  },
+  {
+    "id": 14,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. develop restful apis and real-time apps; implement signalr for live communication; work with sql server and nosql databases; lead module development; ensure application scalability"
+  },
+  {
+    "id": 15,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. develop front-end with blazor/angular; implement repository pattern with dapper; optimize sql server queries; enhance ui/ux for applications; mentor junior team members"
+  },
+  {
+    "id": 16,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. develop and maintain microservices; create ci/cd pipelines; ensure testing coverage with nunit; deploy apps with docker; collaborate with qa team"
+  },
+  {
+    "id": 17,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. build restful and grpc apis; integrate services with azure; design database schemas; monitor system performance; provide technical leadership"
+  },
+  {
+    "id": 18,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. design and manage microservices architecture; deploy apps on kubernetes clusters; ensure best practices with solid principles; lead development sprints; coordinate with product teams"
+  },
+  {
+    "id": 19,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. implement automated unit tests; use moq for dependency testing; develop scalable apps in .net core; lead code review sessions; optimize app performance"
+  },
+  {
+    "id": 20,
+    "job_title": ".net developer",
+    "combined_text": ".net developer. lead ci/cd setup in azure devops; deploy services with docker/kubernetes; architect scalable .net applications; coordinate with cross-functional teams; mentor juniors"
+  },
+  {
+    "id": 21,
+    "job_title": "ai engineer - fresher",
+    "combined_text": "ai engineer - fresher. assist in developing ai models; preprocess data; implement basic ml algorithms; participate in hackathons and academic projects"
+  },
+  {
+    "id": 22,
+    "job_title": "ai engineer - fresher",
+    "combined_text": "ai engineer - fresher. build simple ai models; preprocess datasets; implement basic ml pipelines; work collaboratively on projects"
+  },
+  {
+    "id": 23,
+    "job_title": "ai engineer - fresher",
+    "combined_text": "ai engineer - fresher. support ai development; create and test ml models; perform data preprocessing and feature engineering; collaborate with mentors"
+  },
+  {
+    "id": 24,
+    "job_title": "ai engineer - fresher",
+    "combined_text": "ai engineer - fresher. implement basic ai/ml models; assist with data preprocessing and visualization; participate in small projects or hackathons"
+  },
+  {
+    "id": 25,
+    "job_title": "ai engineer - fresher",
+    "combined_text": "ai engineer - fresher. assist in ai model development; data cleaning; implement basic neural networks; collaborate on academic or hackathon projects"
+  },
+  {
+    "id": 26,
+    "job_title": "ai engineer - fresher",
+    "combined_text": "ai engineer - fresher. build and train basic ai models; preprocess datasets; implement feature engineering techniques; collaborate in small teams"
+  },
+  {
+    "id": 27,
+    "job_title": "ai engineer - fresher",
+    "combined_text": "ai engineer - fresher. assist in developing ai pipelines; train basic ml/dl models; preprocess data; participate in hackathons or academic projects"
+  },
+  {
+    "id": 28,
+    "job_title": "ai engineer - fresher",
+    "combined_text": "ai engineer - fresher. implement and test ml/ai models; clean and preprocess data; contribute to academic, hobby, or hackathon projects"
+  },
+  {
+    "id": 29,
+    "job_title": "ai engineer - fresher",
+    "combined_text": "ai engineer - fresher. support development of ai projects; preprocess datasets; build basic ml/dl models; participate in collaborative projects and hackathons"
+  },
+  {
+    "id": 30,
+    "job_title": "ai engineer - experienced",
+    "combined_text": "ai engineer - experienced. architect and deploy scalable ai models; optimize deep learning and nlp pipelines; integrate ai solutions with cloud platforms; lead ai projects"
+  },
+  {
+    "id": 31,
+    "job_title": "ai engineer - experienced",
+    "combined_text": "ai engineer - experienced. design, implement, and deploy advanced ai solutions; lead teams; ensure cloud integration; manage mlops pipelines"
+  },
+  {
+    "id": 32,
+    "job_title": "ai engineer - experienced",
+    "combined_text": "ai engineer - experienced. lead ai engineering projects; deploy scalable deep learning models; manage cloud-based ai platforms; mentor junior ai engineers"
+  },
+  {
+    "id": 33,
+    "job_title": "ai engineer - experienced",
+    "combined_text": "ai engineer - experienced. architect ai/ml pipelines; integrate models with cloud platforms; optimize nlp and computer vision solutions; lead cross-functional ai teams"
+  },
+  {
+    "id": 34,
+    "job_title": "ai engineer - experienced",
+    "combined_text": "ai engineer - experienced. design and deploy production-grade ai solutions; manage ai cloud platforms; lead ai engineering teams; implement mlops practices; ensure model explainability"
+  },
+  {
+    "id": 35,
+    "job_title": "ai engineer - experienced",
+    "combined_text": "ai engineer - experienced. lead ai/ml projects; implement scalable deep learning and nlp pipelines; deploy models in cloud environments; mentor junior engineers"
+  },
+  {
+    "id": 36,
+    "job_title": "ai engineer - experienced",
+    "combined_text": "ai engineer - experienced. architect ai pipelines; optimize deep learning and nlp solutions; manage cloud ai infrastructure; lead cross-functional ai teams"
+  },
+  {
+    "id": 37,
+    "job_title": "",
+    "combined_text": ". lead complex ai and ml projects; develop scalable deep learning and nlp pipelines; manage cloud ai infrastructure; mentor junior engineers"
+  },
+  {
+    "id": 38,
+    "job_title": "ai engineer - experienced",
+    "combined_text": "ai engineer - experienced. lead ai/ml initiatives; deploy advanced deep learning models; optimize pipelines; mentor and guide ai teams"
+  },
+  {
+    "id": 39,
+    "job_title": "ai engineer - experienced",
+    "combined_text": "ai engineer - experienced. manage large-scale ai projects; implement predictive analytics solutions; optimize ml/ai pipelines; provide strategic business insights"
+  },
+  {
+    "id": 40,
+    "job_title": "ai engineer - experienced",
+    "combined_text": "ai engineer - experienced. lead ai/ml projects; deploy and scale deep learning and nlp models; optimize cloud pipelines; mentor junior ai engineers and lead teams"
+  },
+  {
+    "id": 41,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. assist in designing prompts for ai models; test and evaluate prompt effectiveness; collaborate with ai/data science teams; document prompt experiments; support ai model integration tasks"
+  },
+  {
+    "id": 42,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. write and test basic prompts for ai models; assist in nlp-related tasks; collaborate with data science teams; document prompt testing results; support ai platform integration; learn ai model evaluation techniques"
+  },
+  {
+    "id": 43,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. assist in prompt design for ai models; evaluate prompt outcomes; support ai/data science team tasks; document experiments; learn nlp libraries; assist in integration of prompts into ai applications"
+  },
+  {
+    "id": 44,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. write and test ai prompts; support nlp tasks; collaborate with ai/data science teams; document prompt testing results; assist with ai model integration; learn and apply ai frameworks"
+  },
+  {
+    "id": 45,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. assist in prompt development for ai models; test prompt performance; collaborate with ai/data science teams; document experiments; support ai integration projects; learn prompt optimization techniques"
+  },
+  {
+    "id": 46,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. write and refine prompts for ai models; support nlp and data analysis tasks; collaborate with ai/data teams; document prompt results and learnings; assist in ai model evaluation and integration"
+  },
+  {
+    "id": 47,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. assist in prompt creation for ai models; test prompt performance; collaborate with ai/data teams; document experiments; support ai model integration and evaluation"
+  },
+  {
+    "id": 48,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. write and test ai prompts; assist nlp-related tasks; collaborate with ai/data teams; document prompt results; support ai model evaluation and integration"
+  },
+  {
+    "id": 49,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. assist in prompt design and testing; collaborate with ai/data science teams; document prompt experiments; learn prompt optimization techniques; support ai integration projects"
+  },
+  {
+    "id": 50,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. assist in ai prompt creation and testing; support nlp tasks; collaborate with ai/data science teams; document prompt outcomes; help integrate prompts with ai models"
+  },
+  {
+    "id": 51,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. design and optimize prompts for llms; apply advanced nlp techniques for prompt tuning; collaborate with ai and data science teams; implement ai model evaluation metrics; develop prompt optimization strategies; lead prompt-related projects; mentor junior prompt engineers"
+  },
+  {
+    "id": 52,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. develop and fine-tune ai prompts; lead prompt optimization initiatives; collaborate with ai/data science teams for deployment; design prompt evaluation metrics; document prompt design patterns; mentor junior engineers on prompt engineering best practices"
+  },
+  {
+    "id": 53,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. lead prompt engineering efforts; optimize prompt performance for llms; collaborate with cross-functional ai teams; implement prompt testing strategies; provide mentorship on prompt engineering; document prompt design improvements"
+  },
+  {
+    "id": 54,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. design advanced prompts for ai models; perform prompt evaluation and tuning; collaborate with ai teams for integration; implement metrics for prompt effectiveness; lead knowledge sharing sessions on prompt engineering"
+  },
+  {
+    "id": 55,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. lead development of ai prompt strategies; optimize prompts for large-scale ai models; mentor junior prompt engineers; collaborate with ai and data teams; document best practices for prompt design; perform metrics-driven analysis of prompt effectiveness"
+  },
+  {
+    "id": 56,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. develop and optimize ai prompts; lead prompt engineering initiatives; collaborate with ai/data teams; design evaluation metrics for prompt quality; document prompt optimization strategies; mentor junior engineers"
+  },
+  {
+    "id": 57,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. lead prompt optimization projects; evaluate prompt performance; collaborate with cross-functional teams; mentor junior engineers; document prompt design patterns; implement prompt evaluation metrics"
+  },
+  {
+    "id": 58,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. design, test, and optimize ai prompts; lead prompt engineering initiatives; collaborate with ai teams; document best practices; mentor junior engineers; analyze prompt performance metrics"
+  },
+  {
+    "id": 59,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. develop and refine prompts for llms; collaborate with ai/data teams; lead prompt engineering projects; mentor junior prompt engineers; document prompt design patterns; implement prompt evaluation metrics"
+  },
+  {
+    "id": 60,
+    "job_title": "ai prompt engineer",
+    "combined_text": "ai prompt engineer. lead prompt optimization projects; design and refine prompts for ai models; collaborate with cross-functional ai teams; mentor junior engineers; document prompt best practices; implement evaluation metrics for prompt effectiveness"
+  },
+  {
+    "id": 61,
+    "job_title": "android developer intern",
+    "combined_text": "android developer intern. assist in building small android app modules.; write clean code in java and kotlin under supervision.; follow material design guidelines for ui development.; integrate simple rest apis and store data locally.; participate in basic unit testing and debugging."
+  },
+  {
+    "id": 62,
+    "job_title": "junior android developer",
+    "combined_text": "junior android developer. develop android app screens with xml layouts.; collaborate with designers to implement ui components.; integrate basic rest apis and handle json responses.; participate in peer code reviews.; document small modules and features for clarity."
+  },
+  {
+    "id": 63,
+    "job_title": "android app developer trainee",
+    "combined_text": "android app developer trainee. implement small app features using kotlin and java.; assist in connecting apps to apis for basic data exchange.; follow app architecture patterns (mvc) under supervision.; debug minor issues using android studio tools.; learn and apply version control using git."
+  },
+  {
+    "id": 64,
+    "job_title": "entry-level android developer",
+    "combined_text": "entry-level android developer. build android app screens and connect basic apis.; ensure responsive layouts and follow material design principles.; write unit tests for small modules.; document development workflows.; collaborate with senior developers for guidance."
+  },
+  {
+    "id": 65,
+    "job_title": "android developer intern",
+    "combined_text": "android developer intern. support the development of simple android modules.; implement layouts following material design.; assist in connecting rest apis for data retrieval.; debug basic issues and document code.; participate in team discussions and code reviews."
+  },
+  {
+    "id": 66,
+    "job_title": "associate android developer",
+    "combined_text": "associate android developer. develop academic or poc android app features.; ensure proper ui/ux implementation using material design.; connect apps to rest apis and handle json data.; debug minor issues and maintain local storage.; follow version control practices using git."
+  },
+  {
+    "id": 67,
+    "job_title": "trainee android app developer",
+    "combined_text": "trainee android app developer. assist in coding android app modules in java/kotlin.; apply material design and ui/ux best practices.; perform unit testing for small features.; connect apps to rest apis for demonstration projects.; document code and workflows under supervision."
+  },
+  {
+    "id": 68,
+    "job_title": "junior android engineer",
+    "combined_text": "junior android engineer. build simple android app screens with proper layout.; implement basic app features using java/kotlin.; follow mvc pattern under guidance.; test functionality using unit tests.; document code and participate in team reviews."
+  },
+  {
+    "id": 69,
+    "job_title": "android development intern",
+    "combined_text": "android development intern. assist in small-scale android app development projects.; follow material design and ui/ux principles.; integrate basic rest apis and handle data locally.; debug minor issues using android studio tools.; learn and apply git version control."
+  },
+  {
+    "id": 70,
+    "job_title": "android developer trainee",
+    "combined_text": "android developer trainee. develop and test small android app features.; follow material design for responsive ui layouts.; integrate basic rest apis for data functionality.; debug and document code with guidance.; participate in learning sessions and code reviews."
+  },
+  {
+    "id": 71,
+    "job_title": "android developer",
+    "combined_text": "android developer. develop and maintain production android apps.; implement mvvm architecture and jetpack components.; integrate rest apis and firebase services.; optimize performance with multi-threading and memory management.; mentor junior developers and participate in agile sprints."
+  },
+  {
+    "id": 72,
+    "job_title": "senior android developer",
+    "combined_text": "senior android developer. lead development of scalable android apps with clean architecture.; implement dependency injection using dagger/koin.; integrate apis and optimize app performance.; automate ci/cd pipelines and testing.; guide junior developers and review code quality."
+  },
+  {
+    "id": 73,
+    "job_title": "lead android engineer",
+    "combined_text": "lead android engineer. architect and lead android app development projects.; implement mvvm and modular design patterns.; optimize app memory and multi-threading performance.; integrate cloud services like firebase for analytics and messaging.; mentor team members and ensure high code quality."
+  },
+  {
+    "id": 74,
+    "job_title": "android solutions engineer",
+    "combined_text": "android solutions engineer. design and implement efficient android apps.; integrate rest apis, jetpack components, and room database.; ensure smooth app performance and memory optimization.; lead ci/cd pipeline implementation and automated testing.; collaborate with cross-functional teams for product delivery."
+  },
+  {
+    "id": 75,
+    "job_title": "principal android developer",
+    "combined_text": "principal android developer. define technical direction for android apps across teams.; implement advanced mvvm architecture with modularization.; optimize performance and reduce crash rates.; mentor senior and junior engineers.; oversee play store releases and ci/cd processes."
+  },
+  {
+    "id": 76,
+    "job_title": "android tech lead",
+    "combined_text": "android tech lead. lead android development teams for enterprise apps.; oversee architecture, modularization, and app performance.; integrate firebase services for analytics and messaging.; ensure ci/cd pipelines and automated tests run smoothly.; guide and mentor engineers on best coding practices."
+  },
+  {
+    "id": 77,
+    "job_title": "senior android engineer",
+    "combined_text": "senior android engineer. develop and maintain large-scale android apps.; implement modular mvvm architecture with jetpack libraries.; optimize app performance and reduce crash rates.; integrate rest apis and cloud services.; mentor team members and review code quality."
+  },
+  {
+    "id": 78,
+    "job_title": "android architect",
+    "combined_text": "android architect. design android app architecture for scalability and performance.; guide development teams on mvvm, modularization, and clean architecture.; monitor performance metrics and optimize memory usage.; oversee play store releases and continuous integration pipelines.; mentor senior engineers and ensure best practices are followed."
+  },
+  {
+    "id": 79,
+    "job_title": "android solutions architect",
+    "combined_text": "android solutions architect. define architecture strategies for multiple android projects.; lead app performance optimization, debugging, and ci/cd integration.; mentor teams on advanced android development patterns.; ensure play store compliance and smooth deployment.; collaborate with stakeholders for technical solutions and metrics."
+  },
+  {
+    "id": 80,
+    "job_title": "principal android engineer",
+    "combined_text": "principal android engineer. set technical standards for android apps across teams.; oversee advanced app development, ci/cd, and testing processes.; optimize app performance and maintain crash-free releases.; mentor senior and junior engineers on architecture and coding standards.; drive android project delivery with measurable kpis."
+  },
+  {
+    "id": 81,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. assist in developing ar/vr applications; create basic 3d models and animations; support unity and unreal engine projects; collaborate with design teams on ui/ux; test and debug ar/vr interactions; document development processes"
+  },
+  {
+    "id": 82,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. support ar/vr project development; develop basic interactive 3d content; assist in unity and unreal engine workflows; integrate basic gestures and motion tracking; collaborate with ui/ux designers; test and debug ar/vr applications"
+  },
+  {
+    "id": 83,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. assist in ar/vr application development; support 3d modeling and animation tasks; help implement basic ar/vr interactions; test ar/vr applications for functionality; document development work; collaborate with cross-functional teams"
+  },
+  {
+    "id": 84,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. develop basic ar/vr interactions; assist with 3d modeling and animation; support unity and unreal engine projects; integrate basic gestures and motion tracking; collaborate with designers and developers; test and debug ar/vr content"
+  },
+  {
+    "id": 85,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. assist in ar/vr project tasks; create basic interactive 3d models; support development in unity and unreal engine; help integrate arkit/arcore features; collaborate with design teams; perform testing and debugging of ar/vr interactions"
+  },
+  {
+    "id": 86,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. design and develop immersive ar/vr applications; lead ar/vr projects using unity and unreal engine; integrate arkit, arcore, and vuforia features; optimize 3d models and graphics performance; manage cross-platform deployment; mentor junior developers and designers; collaborate with multidisciplinary teams"
+  },
+  {
+    "id": 87,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. lead development of ar/vr applications; implement advanced 3d graphics and animations; integrate arkit, arcore, vuforia, and webvr; optimize performance and hardware integration; guide cross-platform development; mentor team members; coordinate with project stakeholders"
+  },
+  {
+    "id": 88,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. architect ar/vr experiences; implement advanced 3d modeling and interactive animations; integrate hardware and optimize performance; lead cross-platform deployments; mentor and guide development teams; collaborate with design and product teams; manage ar/vr project timelines"
+  },
+  {
+    "id": 89,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. lead ar/vr application architecture and development; design and implement advanced interactive experiences; optimize 3d assets and performance; integrate cross-platform ar/vr features; mentor and train junior developers; collaborate with multidisciplinary teams; ensure project delivery on time and quality standards"
+  },
+  {
+    "id": 90,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. lead ar/vr development projects; architect immersive and interactive applications; optimize graphics performance and hardware integration; oversee cross-platform deployment; mentor teams and review code/designs; collaborate with design and engineering teams; manage timelines and deliverables"
+  },
+  {
+    "id": 91,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. architect and lead ar/vr applications; develop interactive and immersive experiences; optimize 3d modeling and rendering; integrate cross-platform ar/vr features; mentor junior developers; collaborate across teams; ensure high-quality deliverables and timelines"
+  },
+  {
+    "id": 92,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. lead ar/vr projects from concept to deployment; develop advanced 3d modeling and animations; optimize performance across platforms; integrate ar/vr frameworks and hardware; mentor and manage development teams; collaborate with design and product teams; ensure project success and quality"
+  },
+  {
+    "id": 93,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. architect and lead development of ar/vr applications; create interactive and immersive experiences; optimize graphics performance and cross-platform deployment; integrate ar/vr frameworks and hardware; mentor development teams; collaborate across design, product, and engineering teams; manage project timelines and quality"
+  },
+  {
+    "id": 94,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. lead ar/vr application architecture and development; develop immersive interactive experiences; optimize 3d graphics and cross-platform performance; integrate ar/vr frameworks and hardware; mentor and guide development teams; collaborate with multidisciplinary teams; ensure timely delivery and quality standards"
+  },
+  {
+    "id": 95,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. oversee ar/vr development projects; design and implement immersive experiences; optimize 3d assets and performance; integrate ar/vr frameworks across platforms; mentor and manage development teams; collaborate with cross-functional teams; ensure high-quality project delivery"
+  },
+  {
+    "id": 96,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. lead architecture and development of ar/vr applications; develop immersive interactive experiences; optimize 3d graphics and cross-platform performance; integrate ar/vr frameworks and hardware; mentor and guide teams; collaborate across multidisciplinary teams; manage project timelines and quality"
+  },
+  {
+    "id": 97,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. architect and lead ar/vr development projects; develop advanced immersive experiences; optimize 3d modeling, animation, and performance; integrate ar/vr frameworks and hardware; mentor teams; collaborate with cross-functional departments; ensure project quality and deadlines"
+  },
+  {
+    "id": 98,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. lead ar/vr application architecture; develop immersive and interactive experiences; optimize graphics performance and cross-platform integration; integrate ar/vr frameworks and hardware; mentor developers; collaborate with multidisciplinary teams; ensure project delivery and quality standards"
+  },
+  {
+    "id": 99,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. architect ar/vr development projects; develop advanced immersive experiences; optimize 3d graphics and performance; integrate ar/vr frameworks and hardware; mentor and manage teams; collaborate with design, product, and engineering teams; ensure timely and quality delivery"
+  },
+  {
+    "id": 100,
+    "job_title": "ar/vr developer",
+    "combined_text": "ar/vr developer. lead ar/vr application development; design and implement immersive interactive experiences; optimize 3d graphics and cross-platform performance; integrate ar/vr frameworks and hardware; mentor and manage development teams; collaborate across multidisciplinary teams; ensure project delivery with quality standards"
+  },
+  {
+    "id": 101,
+    "job_title": "backend developer - entry level",
+    "combined_text": "backend developer - entry level. assist in building server-side applications; develop restful apis; work with sql/nosql databases; participate in testing and debugging; learn cloud deployment and security fundamentals"
+  },
+  {
+    "id": 102,
+    "job_title": "backend developer - entry level",
+    "combined_text": "backend developer - entry level. implement scalable backend services; develop apis using node.js or django; write queries for sql/nosql databases; perform unit testing; participate in agile development workflows"
+  },
+  {
+    "id": 103,
+    "job_title": "backend developer - entry level",
+    "combined_text": "backend developer - entry level. develop and maintain backend apis; optimize database queries; implement caching strategies; follow coding best practices; learn cloud deployment and security fundamentals"
+  },
+  {
+    "id": 104,
+    "job_title": "backend developer - entry level",
+    "combined_text": "backend developer - entry level. server-side development for web and mobile apps; implement restful apis; manage sql/nosql databases; optimize performance; participate in agile development processes"
+  },
+  {
+    "id": 105,
+    "job_title": "backend developer - entry level",
+    "combined_text": "backend developer - entry level. design and develop backend services; write efficient queries; implement restful apis; collaborate with frontend developers; learn cloud deployment and security best practices"
+  },
+  {
+    "id": 106,
+    "job_title": "backend developer - entry level",
+    "combined_text": "backend developer - entry level. develop backend modules; assist in api development and database management; perform testing; learn performance optimization techniques; understand cloud deployment and security measures"
+  },
+  {
+    "id": 107,
+    "job_title": "backend developer - entry level",
+    "combined_text": "backend developer - entry level. assist in developing backend services for web apps; implement restful apis; work with sql/nosql databases; optimize performance; participate in agile sprints"
+  },
+  {
+    "id": 108,
+    "job_title": "backend developer - entry level",
+    "combined_text": "backend developer - entry level. server-side components for web and mobile apps; assist in building restful apis; optimize database queries; collaborate with frontend teams; learn cloud deployment and devops fundamentals"
+  },
+  {
+    "id": 109,
+    "job_title": "backend developer - entry level",
+    "combined_text": "backend developer - entry level. assist in backend development of scalable apis; manage databases; implement caching strategies; participate in testing; learn cloud deployment and security best practices"
+  },
+  {
+    "id": 110,
+    "job_title": "backend developer - entry level",
+    "combined_text": "backend developer - entry level. assist in backend development; develop apis; manage databases; optimize performance; learn cloud deployment and security fundamentals"
+  },
+  {
+    "id": 111,
+    "job_title": "backend developer - experienced",
+    "combined_text": "backend developer - experienced. design, develop, and maintain backend services; implement restful apis; manage sql/nosql databases; optimize queries; ensure security and authentication; deploy applications on cloud platforms"
+  },
+  {
+    "id": 112,
+    "job_title": "backend developer - experienced",
+    "combined_text": "backend developer - experienced. lead backend development for fintech applications; build scalable microservices; implement secure restful and graphql apis; optimize database performance; deploy applications on aws"
+  },
+  {
+    "id": 113,
+    "job_title": "backend developer - experienced",
+    "combined_text": "backend developer - experienced. architect backend systems for healthcare applications; develop apis; manage large-scale sql/nosql databases; implement caching strategies; ensure hipaa-compliant security"
+  },
+  {
+    "id": 114,
+    "job_title": "backend developer - experienced",
+    "combined_text": "backend developer - experienced. lead backend engineering for e-commerce platforms; implement secure and scalable apis; optimize sql/nosql databases; manage caching strategies; deploy using ci/cd pipelines"
+  },
+  {
+    "id": 115,
+    "job_title": "backend developer - experienced",
+    "combined_text": "backend developer - experienced. design backend services for ai-powered applications; build scalable rest and graphql apis; manage sql/nosql databases; integrate with ml pipelines; deploy on cloud platforms"
+  },
+  {
+    "id": 116,
+    "job_title": "backend developer - experienced",
+    "combined_text": "backend developer - experienced. lead backend infrastructure for logistics platforms; implement microservices; manage distributed sql/nosql databases; optimize api performance; ensure security and compliance"
+  },
+  {
+    "id": 117,
+    "job_title": "backend developer - experienced",
+    "combined_text": "backend developer - experienced. architect backend solutions for saas applications; build secure and scalable restful apis; manage sql/nosql databases; implement caching and ci/cd pipelines; monitor performance"
+  },
+  {
+    "id": 118,
+    "job_title": "backend developer - experienced",
+    "combined_text": "backend developer - experienced. develop backend systems for fintech and banking applications; implement secure apis; optimize database performance; deploy microservices on cloud; maintain compliance with security regulations"
+  },
+  {
+    "id": 119,
+    "job_title": "backend developer - experienced",
+    "combined_text": "backend developer - experienced. lead backend development for large-scale social media platforms; build microservices; develop apis; optimize database performance; ensure security, scalability, and reliability"
+  },
+  {
+    "id": 120,
+    "job_title": "backend developer - experienced",
+    "combined_text": "backend developer - experienced. architect backend solutions for media streaming platforms; build secure restful and graphql apis; manage distributed databases; optimize caching; deploy microservices and maintain high-performance systems"
+  },
+  {
+    "id": 121,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. assist in processing and analyzing big data; support etl pipeline development; learn and implement hadoop and spark tasks; collaborate with team members on data projects; document data processing workflows; apply basic statistical and data mining techniques"
+  },
+  {
+    "id": 122,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. support big data ingestion and processing tasks; assist in building basic etl pipelines; collaborate with data engineers and analysts; learn hadoop ecosystem components; apply data mining and analytics techniques; document project work and processes"
+  },
+  {
+    "id": 123,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. assist in big data processing workflows; learn and support spark tasks; collaborate with teams on etl processes; support hadoop cluster management; document workflows and analysis; apply basic data mining methods"
+  },
+  {
+    "id": 124,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. assist in building etl pipelines; support big data ingestion tasks; learn spark and hadoop jobs; collaborate with data engineers; document analysis and processing steps; apply basic data analytics techniques"
+  },
+  {
+    "id": 125,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. support data ingestion and etl tasks; assist in processing big datasets with hadoop/spark; document workflows and project activities; collaborate with analytics team; apply basic data mining techniques; learn new big data tools and technologies"
+  },
+  {
+    "id": 126,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. assist in data processing workflows; support basic etl pipelines; collaborate with team members; learn hadoop/spark jobs; document data workflows; apply data analytics techniques"
+  },
+  {
+    "id": 127,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. support etl pipeline development; assist in hadoop/spark tasks; document workflows and processes; collaborate with team members; learn big data analytics methods; apply basic data mining concepts"
+  },
+  {
+    "id": 128,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. assist in big data processing; support etl workflows; collaborate with data engineering team; document tasks and workflows; learn hadoop/spark tools; apply basic data analytics"
+  },
+  {
+    "id": 129,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. support data ingestion and processing; assist in etl pipelines; learn and implement hadoop/spark tasks; document workflows; collaborate with team; apply basic analytics techniques"
+  },
+  {
+    "id": 130,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. assist in big data ingestion and processing; support etl workflows; learn spark and hadoop tasks; collaborate with team members; document workflows; apply basic data analytics"
+  },
+  {
+    "id": 131,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. design and implement big data architectures; build and optimize etl pipelines; implement streaming solutions with spark/kafka/flink; work with cloud big data services; provide data visualization solutions; ensure data governance and compliance; lead cross-functional big data projects"
+  },
+  {
+    "id": 132,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. architect big data solutions for enterprise; manage and optimize etl and data pipelines; implement real-time streaming pipelines; integrate cloud big data services; provide analytics and visualization insights; ensure compliance and data security; mentor junior big data engineers"
+  },
+  {
+    "id": 133,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. lead big data architecture design; develop and optimize etl pipelines; implement streaming and batch processing solutions; integrate with cloud services; provide data insights and visualization; ensure governance, security and compliance; lead cross-functional big data teams"
+  },
+  {
+    "id": 134,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. design enterprise big data solutions; build and optimize data pipelines; implement real-time streaming with spark/kafka; leverage cloud big data services; provide analytics and visualization dashboards; ensure compliance and governance; lead and mentor team members"
+  },
+  {
+    "id": 135,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. lead design and implementation of big data architectures; manage etl and data integration pipelines; develop streaming solutions using spark/kafka/flink; integrate cloud data services; provide analytics and visualization solutions; ensure data compliance and governance; mentor junior engineers"
+  },
+  {
+    "id": 136,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. architect scalable big data solutions; develop and manage etl pipelines; implement real-time and batch processing; leverage cloud big data tools; provide visualization and analytics insights; ensure security and data governance; lead team efforts and mentor engineers"
+  },
+  {
+    "id": 137,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. design and implement big data platforms; develop etl and streaming pipelines; work with multi-cloud data services; provide analytics dashboards; ensure data security and governance; lead cross-functional teams; mentor junior engineers"
+  },
+  {
+    "id": 138,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. lead big data architecture projects; implement etl pipelines; develop streaming data solutions; integrate cloud big data platforms; provide visualization and analytics; ensure compliance and governance; mentor and guide team members"
+  },
+  {
+    "id": 139,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. architect enterprise big data solutions; manage etl and streaming pipelines; implement real-time data processing; leverage cloud big data tools; provide analytics and visualization solutions; ensure security and compliance; lead and mentor team members"
+  },
+  {
+    "id": 140,
+    "job_title": "big data specialist",
+    "combined_text": "big data specialist. design scalable big data solutions; develop etl and streaming pipelines; work with multi-cloud big data services; provide analytics dashboards; ensure governance, compliance, and security; lead cross-functional big data projects; mentor junior engineers"
+  },
+  {
+    "id": 141,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. assist in blockchain application development; support smart contract implementation and testing; collaborate on dapp projects; follow cryptography and blockchain security guidelines; document development tasks and processes; learn blockchain platforms and tools"
+  },
+  {
+    "id": 142,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. support blockchain project development; assist in writing and testing smart contracts; collaborate on dapp development tasks; follow security practices and guidelines; document project workflows and code; learn blockchain platform operations"
+  },
+  {
+    "id": 143,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. assist in blockchain and dapp development; write and test basic smart contracts; collaborate with team members on blockchain projects; document development work and processes; learn blockchain platforms and tools; follow security and cryptography best practices"
+  },
+  {
+    "id": 144,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. support blockchain application development; assist in smart contract creation and testing; collaborate on dapp development; follow blockchain security guidelines; document workflows and coding practices; learn and use blockchain development tools"
+  },
+  {
+    "id": 145,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. assist in blockchain development projects; implement and test smart contracts; collaborate on dapp development; follow cryptography and security practices; document project development activities; learn blockchain platforms and tools"
+  },
+  {
+    "id": 146,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. support blockchain and dapp development; assist in smart contract testing and deployment; collaborate on blockchain projects; document development workflows; learn blockchain platforms and tools; follow security and cryptography standards"
+  },
+  {
+    "id": 147,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. assist in blockchain projects; implement and test smart contracts; collaborate on dapp development tasks; document development processes; follow security and cryptography guidelines; learn and use blockchain tools"
+  },
+  {
+    "id": 148,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. support blockchain application development; assist in smart contract coding and testing; collaborate on dapp development; follow cryptography and security standards; document workflows; learn blockchain platforms and tools"
+  },
+  {
+    "id": 149,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. assist in blockchain projects; implement basic smart contracts; collaborate on dapp development; document development tasks; follow cryptography and blockchain security practices; learn blockchain platforms and tools"
+  },
+  {
+    "id": 150,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. support blockchain and dapp development; assist in writing and testing smart contracts; collaborate with teams on projects; document workflows and processes; follow security and cryptography practices; learn blockchain platforms and development tools"
+  },
+  {
+    "id": 151,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. design and develop blockchain solutions; implement advanced smart contracts with gas optimization; ensure cryptographic security in applications; build scalable dapps with cross-chain interoperability; lead projects and mentor junior developers; collaborate with cross-functional teams; manage blockchain infrastructure"
+  },
+  {
+    "id": 152,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. lead blockchain architecture design; develop secure and optimized smart contracts; build scalable dapps and cross-chain solutions; ensure cryptography and blockchain security; mentor junior blockchain developers; coordinate with cross-functional teams; integrate blockchain with cloud infrastructure"
+  },
+  {
+    "id": 153,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. architect blockchain solutions across multiple platforms; optimize and audit smart contracts; develop scalable and secure dapps; implement cross-chain interoperability; lead and mentor blockchain teams; manage blockchain infrastructure and cloud integration; coordinate with stakeholders"
+  },
+  {
+    "id": 154,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. lead blockchain development projects; optimize and audit smart contracts; build scalable dapps with cross-chain capabilities; integrate blockchain with cloud services; mentor junior developers; collaborate with cross-functional teams; drive innovation in blockchain applications"
+  },
+  {
+    "id": 155,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. design and implement blockchain architectures; develop optimized and secure smart contracts; lead scalable dapps development and cross-chain solutions; integrate blockchain systems with cloud platforms; mentor and manage teams; coordinate with stakeholders; drive innovation initiatives"
+  },
+  {
+    "id": 156,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. lead blockchain architecture and solution design; optimize and audit smart contracts; develop scalable and secure dapps; implement cross-chain interoperability; integrate with cloud infrastructure; mentor teams; drive innovation strategies"
+  },
+  {
+    "id": 157,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. architect blockchain systems; develop and optimize smart contracts; build scalable dapps with cross-chain support; integrate blockchain with cloud platforms; mentor and manage teams; coordinate with stakeholders; drive innovation initiatives"
+  },
+  {
+    "id": 158,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. design and deliver blockchain architectures; develop optimized smart contracts; build scalable dapps with cross-chain functionality; integrate blockchain with cloud infrastructure; mentor teams and manage projects; collaborate with stakeholders; ensure security and cryptography standards"
+  },
+  {
+    "id": 159,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. architect blockchain systems; develop secure and optimized smart contracts; build scalable dapps with cross-chain support; integrate blockchain with cloud platforms; mentor and manage teams; coordinate with stakeholders; drive innovation"
+  },
+  {
+    "id": 160,
+    "job_title": "blockchain developer",
+    "combined_text": "blockchain developer. lead blockchain architecture and project delivery; develop optimized and secure smart contracts; build scalable dapps with cross-chain interoperability; integrate blockchain systems with cloud platforms; mentor teams and manage projects; coordinate with stakeholders; drive innovation initiatives"
+  },
+  {
+    "id": 161,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. assist in data collection and analysis; support creation of reports and dashboards; help gather and document requirements; participate in agile ceremonies; collaborate with team members on analysis tasks; conduct basic research and scenario modeling; support presentations to stakeholders; contribute to process improvement initiatives; learn bi tools and automation workflows; maintain clear documentation and reporting"
+  },
+  {
+    "id": 162,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. analyze business data to identify trends and insights; develop and maintain dashboards and reports; gather, document, and validate business requirements; participate in agile projects and sprint planning; collaborate with cross-functional teams; perform scenario modeling and risk analysis; present data-driven recommendations to stakeholders; support bi tool adoption and automation initiatives; track kpis and business metrics; drive continuous process improvement"
+  },
+  {
+    "id": 163,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. lead analysis projects using bi and ai tools; develop and optimize dashboards for executive insights; manage requirement gathering and documentation; facilitate agile processes and sprint planning; collaborate with business and technical teams; analyze complex scenarios and provide recommendations; present insights to executive stakeholders; drive process improvements and kpi optimization; mentor junior analysts; support automation of reporting and analysis workflows"
+  },
+  {
+    "id": 164,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. lead cross-functional analysis initiatives; design and maintain bi dashboards; manage requirement gathering and validation; implement ai-driven data analysis solutions; facilitate agile ceremonies and project workflows; collaborate with business units to optimize processes; present actionable insights to leadership; support strategic business planning; mentor junior bas and analysts; oversee kpi tracking and reporting automation"
+  },
+  {
+    "id": 165,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. support data collection and basic analysis; assist in preparing reports and visualizations; document business requirements and workflows; participate in agile project meetings; collaborate with team members on analysis tasks; conduct preliminary scenario analysis; assist in presentations to stakeholders; learn bi and reporting tools; support continuous process improvement initiatives; maintain documentation standards"
+  },
+  {
+    "id": 166,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. analyze business performance data to provide insights; create and maintain dashboards and reports; gather and validate requirements from business units; participate in agile development cycles; collaborate with technical and business teams; perform risk analysis and scenario planning; communicate findings to stakeholders; support bi tool adoption and reporting automation; monitor kpis and metrics; recommend process improvements"
+  },
+  {
+    "id": 167,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. lead bi and analytics projects; develop and optimize dashboards for decision-making; manage requirement gathering and documentation; facilitate agile project execution; collaborate with cross-functional teams; provide scenario analysis and recommendations; present insights to leadership; mentor junior analysts; drive process and kpi improvements; automate reporting workflows"
+  },
+  {
+    "id": 168,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. lead complex business analysis projects; design and maintain bi dashboards and reports; oversee requirement elicitation and documentation; implement ai-driven analytics solutions; facilitate agile project management; collaborate with business and technical teams; provide actionable insights to executives; support strategic planning; mentor junior analysts; automate kpi tracking and reporting"
+  },
+  {
+    "id": 169,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. support basic data analysis tasks; assist in dashboard creation; document requirements and workflows; participate in agile meetings; collaborate with team members; perform basic scenario modeling; support presentations to stakeholders; learn bi tools; assist in reporting automation; contribute to process improvement initiatives"
+  },
+  {
+    "id": 170,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. analyze business data for actionable insights; develop and maintain dashboards; gather and validate business requirements; participate in agile projects; collaborate with technical and business teams; perform risk and scenario analysis; present findings to stakeholders; support bi tool adoption; monitor kpis; recommend process improvements"
+  },
+  {
+    "id": 171,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. lead bi and analytics initiatives; develop advanced dashboards and reporting solutions; manage requirement gathering and validation; facilitate agile project execution; collaborate with cross-functional teams; provide scenario modeling and recommendations; present data-driven insights to executives; mentor junior analysts; drive process and kpi improvements; automate reporting workflows"
+  },
+  {
+    "id": 172,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. lead complex business analysis projects; design and maintain bi dashboards; oversee requirement gathering and documentation; implement ai-driven analytics solutions; facilitate agile project management; collaborate with business and technical teams; deliver actionable insights to executives; support strategic planning; mentor junior analysts; automate kpi tracking and reporting"
+  },
+  {
+    "id": 173,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. assist in data collection and basic analysis; support creation of dashboards and reports; document business requirements; participate in agile team meetings; collaborate with team members; perform basic scenario modeling; support presentations to stakeholders; learn bi and analytics tools; assist in process improvement initiatives; maintain documentation standards"
+  },
+  {
+    "id": 174,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. lead bi and analytics projects; develop and optimize dashboards for business insights; manage requirement gathering and documentation; facilitate agile processes; collaborate with cross-functional teams; conduct scenario analysis and provide recommendations; present actionable insights to leadership; mentor junior analysts; implement process improvements; automate reporting workflows"
+  },
+  {
+    "id": 175,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. lead complex business analysis initiatives; design and maintain bi dashboards and reports; oversee requirement gathering and documentation; implement ai-driven analytics solutions; facilitate agile project management; collaborate with business and technical teams; deliver actionable insights to executives; support strategic business planning; mentor junior analysts; automate kpi tracking and reporting"
+  },
+  {
+    "id": 176,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. support data collection and analysis tasks; assist in dashboard and report creation; document business requirements; participate in agile team activities; collaborate with team members; perform basic scenario modeling; support stakeholder presentations; learn bi and analytics tools; assist in process improvement initiatives; maintain documentation standards"
+  },
+  {
+    "id": 177,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. analyze business performance data; develop and maintain dashboards; gather and validate business requirements; participate in agile projects; collaborate with technical and business teams; perform scenario and risk analysis; present findings to stakeholders; support bi tool adoption; monitor kpis and metrics; recommend process improvements"
+  },
+  {
+    "id": 178,
+    "job_title": "business analyst",
+    "combined_text": "business analyst. lead bi and analytics initiatives; develop advanced dashboards and reporting solutions; manage requirement gathering and validation; facilitate agile project execution; collaborate with cross-functional teams; conduct scenario modeling and provide recommendations; present actionable insights to leadership; mentor junior analysts; drive process and kpi improvements; automate reporting workflows"
+  },
+  {
+    "id": 179,
+    "job_title": "bi analyst - fresher",
+    "combined_text": "bi analyst - fresher. assist in analyzing datasets; create dashboards; prepare reports; support business decision-making processes"
+  },
+  {
+    "id": 180,
+    "job_title": "bi analyst - fresher",
+    "combined_text": "bi analyst - fresher. support teams in analyzing business data; prepare dashboards; assist in reporting for decision-making"
+  },
+  {
+    "id": 181,
+    "job_title": "bi analyst - fresher",
+    "combined_text": "bi analyst - fresher. support business teams; extract, clean, and visualize data; assist in reporting and decision support"
+  },
+  {
+    "id": 182,
+    "job_title": "bi analyst - experienced",
+    "combined_text": "bi analyst - experienced. lead bi and analytics projects; design dashboards; implement predictive analytics; manage etl pipelines to support business strategy"
+  },
+  {
+    "id": 183,
+    "job_title": "bi analyst - experienced",
+    "combined_text": "bi analyst - experienced. develop and optimize dashboards; implement advanced analytics solutions; oversee etl and data warehousing projects"
+  },
+  {
+    "id": 184,
+    "job_title": "bi analyst - experienced",
+    "combined_text": "bi analyst - experienced. design advanced dashboards; implement predictive analytics; optimize sql workflows; oversee etl pipelines for large-scale data projects"
+  },
+  {
+    "id": 185,
+    "job_title": "bi analyst - experienced",
+    "combined_text": "bi analyst - experienced. lead business intelligence projects; manage etl and data pipelines; develop predictive models; mentor junior bi analysts"
+  },
+  {
+    "id": 186,
+    "job_title": "bi analyst - experienced",
+    "combined_text": "bi analyst - experienced. develop predictive analytics dashboards; manage etl processes; optimize sql queries; lead bi teams for strategic insights"
+  },
+  {
+    "id": 187,
+    "job_title": "bi analyst - experienced",
+    "combined_text": "bi analyst - experienced. lead complex bi and analytics projects; develop advanced dashboards; optimize data pipelines; mentor junior analysts"
+  },
+  {
+    "id": 188,
+    "job_title": "bi analyst - experienced",
+    "combined_text": "bi analyst - experienced. manage large-scale bi projects; implement predictive analytics; optimize etl and sql workflows; provide strategic business insights"
+  },
+  {
+    "id": 189,
+    "job_title": "bi analyst - experienced",
+    "combined_text": "bi analyst - experienced. lead bi teams; optimize data pipelines; develop advanced dashboards; oversee predictive analytics projects"
+  },
+  {
+    "id": 190,
+    "job_title": "bi analyst - experienced",
+    "combined_text": "bi analyst - experienced. manage bi projects; lead predictive analytics initiatives; optimize etl and sql workflows; deliver business insights"
+  },
+  {
+    "id": 191,
+    "job_title": "bi analyst - experienced",
+    "combined_text": "bi analyst - experienced. manage bi projects; implement predictive analytics; optimize etl and sql workflows; provide strategic business insights"
+  },
+  {
+    "id": 192,
+    "job_title": "cloud architect",
+    "combined_text": "cloud architect. assist in deploying basic cloud infrastructure; support configuration of cloud storage and networking; work with senior engineers on containerization projects; document cloud setup and processes"
+  },
+  {
+    "id": 193,
+    "job_title": "cloud solutions associate",
+    "combined_text": "cloud solutions associate. assist in provisioning virtual machines; support deployment of test environments; help with infrastructure as code basics; perform troubleshooting under supervision"
+  },
+  {
+    "id": 194,
+    "job_title": "junior cloud engineer",
+    "combined_text": "junior cloud engineer. work on basic automation tasks; assist in ci/cd pipeline setup; support in monitoring cloud resources; write simple scripts for automation"
+  },
+  {
+    "id": 195,
+    "job_title": "cloud trainee",
+    "combined_text": "cloud trainee. shadow senior architects in migration projects; support setup of iam roles; assist with troubleshooting"
+  },
+  {
+    "id": 196,
+    "job_title": "cloud engineer",
+    "combined_text": "cloud engineer. design scalable cloud infrastructure; automate deployments using terraform; implement ci/cd pipelines; collaborate on security compliance projects"
+  },
+  {
+    "id": 197,
+    "job_title": "senior cloud architect",
+    "combined_text": "senior cloud architect. lead cloud migration projects; architect hybrid cloud environments; mentor junior engineers; ensure compliance with governance frameworks"
+  },
+  {
+    "id": 198,
+    "job_title": "lead cloud solutions architect",
+    "combined_text": "lead cloud solutions architect. drive enterprise cloud strategy; design serverless and microservices-based architectures; optimize cloud costs; lead cross-functional cloud teams"
+  },
+  {
+    "id": 199,
+    "job_title": "cloud security architect",
+    "combined_text": "cloud security architect. implement iam policies; ensure compliance with gdpr and hipaa; secure cloud workloads; lead security audits"
+  },
+  {
+    "id": 200,
+    "job_title": "devops cloud architect",
+    "combined_text": "devops cloud architect. integrate devops practices into cloud deployments; manage ci/cd pipelines; automate provisioning; support developers with infrastructure"
+  },
+  {
+    "id": 201,
+    "job_title": "cloud infrastructure architect",
+    "combined_text": "cloud infrastructure architect. design resilient infrastructure; architect hybrid environments; manage large-scale cloud networking; collaborate with it security"
+  },
+  {
+    "id": 202,
+    "job_title": "multi-cloud architect",
+    "combined_text": "multi-cloud architect. design multi-cloud strategies; build cross-platform applications; mentor engineers; collaborate with stakeholders"
+  },
+  {
+    "id": 203,
+    "job_title": "cloud migration specialist",
+    "combined_text": "cloud migration specialist. migrate on-premise applications to cloud; implement database migration strategies; ensure minimal downtime during migration"
+  },
+  {
+    "id": 204,
+    "job_title": "cloud platform architect",
+    "combined_text": "cloud platform architect. design cloud platforms for enterprise; implement kubernetes clusters; lead container orchestration strategies"
+  },
+  {
+    "id": 205,
+    "job_title": "enterprise cloud architect",
+    "combined_text": "enterprise cloud architect. design enterprise-wide cloud strategy; implement serverless and scalable architectures; collaborate with c-level executives"
+  },
+  {
+    "id": 206,
+    "job_title": "cloud infrastructure security architect",
+    "combined_text": "cloud infrastructure security architect. secure cloud workloads; design iam and compliance frameworks; lead audits; collaborate with security teams"
+  },
+  {
+    "id": 207,
+    "job_title": "cloud engineer - fresher",
+    "combined_text": "cloud engineer - fresher. assist in deploying and managing cloud resources; support basic automation and containerization; implement ci/cd pipeline setups; support cloud deployments for training or academic projects; collaborate with team members; create basic infrastructure scripts"
+  },
+  {
+    "id": 208,
+    "job_title": "cloud engineer - fresher",
+    "combined_text": "cloud engineer - fresher. deploy cloud resources under guidance; assist in containerization with docker; implement ci/cd pipelines for learning projects; support cloud infrastructure deployments; collaborate on academic or personal projects"
+  },
+  {
+    "id": 209,
+    "job_title": "cloud engineer - fresher",
+    "combined_text": "cloud engineer - fresher. support cloud deployments; implement infrastructure automation; containerize applications with guidance; assist in ci/cd pipeline setups; collaborate in academic/cloud lab projects"
+  },
+  {
+    "id": 210,
+    "job_title": "cloud engineer - fresher",
+    "combined_text": "cloud engineer - fresher. assist in deploying cloud resources; create basic automation scripts; support containerized app deployments; collaborate on academic or personal projects"
+  },
+  {
+    "id": 211,
+    "job_title": "cloud engineer - fresher",
+    "combined_text": "cloud engineer - fresher. implement basic cloud deployments; manage infrastructure scripts; containerize applications for training or academic projects; collaborate in teamwork projects"
+  },
+  {
+    "id": 212,
+    "job_title": "cloud engineer - fresher",
+    "combined_text": "cloud engineer - fresher. assist in deploying cloud services; containerize apps; implement basic ci/cd pipelines; monitor resource usage; collaborate with team members"
+  },
+  {
+    "id": 213,
+    "job_title": "cloud engineer - fresher",
+    "combined_text": "cloud engineer - fresher. support basic cloud infrastructure deployments; automate scripting tasks; setup containerized applications; collaborate on academic or online lab projects"
+  },
+  {
+    "id": 214,
+    "job_title": "cloud engineer - fresher",
+    "combined_text": "cloud engineer - fresher. assist in creating basic cloud infrastructure; deploy applications; implement ci/cd pipelines; collaborate on projects"
+  },
+  {
+    "id": 215,
+    "job_title": "cloud engineer - fresher",
+    "combined_text": "cloud engineer - fresher. deploy cloud resources under guidance; write basic automation scripts; assist in containerized application setup; collaborate on academic/bootcamp projects"
+  },
+  {
+    "id": 216,
+    "job_title": "cloud engineer - experienced",
+    "combined_text": "cloud engineer - experienced. architect, deploy, and manage scalable cloud infrastructure; lead automation and ci/cd pipelines; implement advanced cloud security practices; mentor junior engineers; collaborate cross-team"
+  },
+  {
+    "id": 217,
+    "job_title": "cloud engineer - experienced",
+    "combined_text": "cloud engineer - experienced. design and manage multi-region cloud solutions; automate infrastructure; lead cloud migration projects; mentor junior engineers; ensure security and compliance"
+  },
+  {
+    "id": 218,
+    "job_title": "cloud engineer - experienced",
+    "combined_text": "cloud engineer - experienced. lead cloud architecture design; implement scalable ci/cd pipelines; ensure devsecops compliance; monitor cloud infrastructure; mentor team members"
+  },
+  {
+    "id": 219,
+    "job_title": "cloud engineer - experienced",
+    "combined_text": "cloud engineer - experienced. architect multi-region cloud solutions; implement automation and monitoring; secure cloud environments; lead cloud engineering teams"
+  },
+  {
+    "id": 220,
+    "job_title": "cloud engineer - experienced",
+    "combined_text": "cloud engineer - experienced. design and manage enterprise-scale cloud deployments; automate infrastructure; enforce security compliance; mentor junior cloud engineers; collaborate cross-team"
+  },
+  {
+    "id": 221,
+    "job_title": "cloud engineer - experienced",
+    "combined_text": "cloud engineer - experienced. lead cloud infrastructure projects; implement automated ci/cd pipelines; optimize resource usage; ensure cloud security and compliance; mentor and guide team"
+  },
+  {
+    "id": 222,
+    "job_title": "cloud engineer - experienced",
+    "combined_text": "cloud engineer - experienced. architect, deploy, and manage cloud environments; enforce security best practices; monitor systems; lead cloud engineering teams across projects"
+  },
+  {
+    "id": 223,
+    "job_title": "cloud engineer - experienced",
+    "combined_text": "cloud engineer - experienced. lead cloud architecture and ci/cd projects; manage automation and security compliance; mentor and coordinate cross-team efforts"
+  },
+  {
+    "id": 224,
+    "job_title": "cloud engineer - experienced",
+    "combined_text": "cloud engineer - experienced. architect enterprise-scale deployments; implement ci/cd pipelines; enforce security compliance; mentor junior engineers"
+  },
+  {
+    "id": 225,
+    "job_title": "cloud engineer - experienced",
+    "combined_text": "cloud engineer - experienced. lead cloud infrastructure and automation projects; implement ci/cd pipelines; optimize cloud resources and enforce security; mentor junior engineers"
+  },
+  {
+    "id": 226,
+    "job_title": "cloud engineer - experienced",
+    "combined_text": "cloud engineer - experienced. architect and manage cloud environments; lead engineering teams; enforce security best practices; monitor cloud systems"
+  },
+  {
+    "id": 227,
+    "job_title": "content writer",
+    "combined_text": "content writer. produce high-quality blog and article content; research topics and ensure factual accuracy; adapt tone and style for target audiences; implement basic on-page seo techniques; edit and proofread content; publish content on cms platforms; collaborate with team for content ideas; learn and use ai writing tools for content creation"
+  },
+  {
+    "id": 228,
+    "job_title": "content writer",
+    "combined_text": "content writer. write and publish blogs and articles; conduct topic research and fact-checking; optimize content for basic seo; edit and proofread for clarity and grammar; collaborate with marketing and design teams; manage multiple content tasks and deadlines; use cms for content publishing; learn ai-assisted content creation tools"
+  },
+  {
+    "id": 229,
+    "job_title": "content writer",
+    "combined_text": "content writer. produce high-quality content aligned with seo strategy; conduct research for content accuracy; optimize articles and blogs for search engines; edit and proofread content for publication; create social media posts; support content strategy planning; collaborate with seo and marketing teams; leverage ai tools to enhance content creation"
+  },
+  {
+    "id": 230,
+    "job_title": "content writer",
+    "combined_text": "content writer. create and optimize content for various formats; perform keyword research and implement seo best practices; edit and proofread content; conduct in-depth research for accurate information; collaborate with marketing and design teams; use cms and ai tools for content production; track content performance using analytics; manage deadlines and multiple projects"
+  },
+  {
+    "id": 231,
+    "job_title": "content writer",
+    "combined_text": "content writer. lead content strategy development and execution; create seo-optimized multi-format content; perform research and fact-checking for accurate content; edit and proofread all content; collaborate with marketing, seo, and design teams; track content kpis and analyze performance; use ai tools for efficient content creation; implement backlinking and content promotion strategies; develop content calendars; mentor junior content writers"
+  },
+  {
+    "id": 232,
+    "job_title": "content writer",
+    "combined_text": "content writer. develop and implement content strategies; create multi-format content aligned with seo and marketing goals; conduct keyword research and optimize content; edit and proofread all content; collaborate with marketing, design, and seo teams; track content performance using analytics tools; use ai tools to enhance content production; ensure content aligns with brand voice and guidelines; manage content calendars and deadlines; mentor and guide junior writers"
+  },
+  {
+    "id": 233,
+    "job_title": "content writer",
+    "combined_text": "content writer. write clear and engaging content for blogs and social media; assist in keyword research and basic seo implementation; proofread and edit content; research topics for content accuracy; publish content via cms; collaborate with team members on content ideas; learn ai-assisted writing tools; ensure content follows brand guidelines; meet content deadlines; adapt content style for different audiences"
+  },
+  {
+    "id": 234,
+    "job_title": "content writer",
+    "combined_text": "content writer. create seo-friendly content for blogs, social media, and articles; perform research and fact-checking; edit and proofread content; support content strategy planning; use cms and ai tools for content creation; collaborate with marketing and seo teams; track content performance; maintain consistent brand voice; adapt content for various audiences; meet project deadlines"
+  },
+  {
+    "id": 235,
+    "job_title": "content writer",
+    "combined_text": "content writer. develop and execute content strategies; create seo-optimized multi-format content; edit and proofread content for quality and accuracy; use digital marketing tools to track performance; leverage ai tools for content creation and optimization; collaborate with marketing and design teams; ensure consistency in brand voice; track content kpis; manage content calendars; mentor junior content writers"
+  },
+  {
+    "id": 236,
+    "job_title": "content writer",
+    "combined_text": "content writer. lead content strategy and planning; create and optimize multi-format content; edit and proofread content; implement seo and keyword optimization strategies; use digital marketing tools to measure performance; leverage ai-assisted writing tools; collaborate with marketing, seo, and design teams; track content performance and kpis; manage content calendars and deadlines; ensure alignment with brand guidelines"
+  },
+  {
+    "id": 237,
+    "job_title": "content writer",
+    "combined_text": "content writer. write engaging blog posts and articles; research and verify content accuracy; apply basic seo practices; proofread and edit content; publish content on cms platforms; adapt writing style for different audiences; collaborate with marketing team; learn to use ai-assisted writing tools; meet content deadlines; ensure content aligns with brand voice"
+  },
+  {
+    "id": 238,
+    "job_title": "content writer",
+    "combined_text": "content writer. produce high-quality blogs and articles; perform keyword research and implement seo basics; research content topics; use cms to publish content; edit and proofread content; collaborate with marketing team; adapt content style for audiences; leverage ai tools for content creation; maintain content calendar; ensure brand alignment in content"
+  },
+  {
+    "id": 239,
+    "job_title": "content writer",
+    "combined_text": "content writer. create and optimize content for multiple formats; conduct keyword research and implement seo strategies; edit and proofread content for quality; research for accurate content creation; collaborate with marketing and design teams; use cms and ai tools for publishing; support content strategy development; track performance using analytics; maintain content calendars; ensure brand voice consistency"
+  },
+  {
+    "id": 240,
+    "job_title": "content writer",
+    "combined_text": "content writer. plan and develop content strategy; create seo-optimized multi-format content; perform editing and proofreading; conduct in-depth research for content accuracy; collaborate with marketing and seo teams; leverage ai tools for content creation; use cms for publishing content; track content performance and kpis; maintain deadlines and content calendar; ensure consistent brand messaging"
+  },
+  {
+    "id": 241,
+    "job_title": "content writer",
+    "combined_text": "content writer. lead content strategy and execution; create seo-optimized blogs, articles, and multi-format content; edit and proofread content for quality; use digital marketing and analytics tools to monitor performance; collaborate with marketing, design, and seo teams; implement ai-assisted content creation; manage content calendars; track kpis and measure content impact; ensure consistent brand voice; mentor junior content writers"
+  },
+  {
+    "id": 242,
+    "job_title": "content writer",
+    "combined_text": "content writer. develop and implement comprehensive content strategies; create and optimize multi-format content aligned with seo and marketing goals; edit and proofread content for quality assurance; use analytics and marketing tools to measure content effectiveness; leverage ai-assisted tools for content production; collaborate with cross-functional teams; manage content calendars and deadlines; track content kpis and adjust strategies; mentor and train junior writers; ensure content aligns with brand guidelines"
+  },
+  {
+    "id": 243,
+    "job_title": "content writer",
+    "combined_text": "content writer. write engaging and clear content for blogs and articles; perform research and fact-checking; apply basic seo practices; proofread and edit content; publish content on cms; adapt content style to audience; collaborate with marketing teams; familiarize with ai-assisted content tools; maintain content deadlines; ensure alignment with brand guidelines"
+  },
+  {
+    "id": 244,
+    "job_title": "content writer",
+    "combined_text": "content writer. create and optimize content for blogs, social media, and other formats; perform keyword research and implement seo strategies; edit and proofread content; conduct research to ensure accuracy; collaborate with marketing and design teams; use cms and ai tools for publishing; support content strategy planning; track content performance using analytics; maintain content calendars; ensure brand consistency in content"
+  },
+  {
+    "id": 245,
+    "job_title": "content writer",
+    "combined_text": "content writer. lead content strategy development; create seo-optimized content for multiple formats; edit and proofread content for accuracy and quality; leverage digital marketing tools to monitor performance; use ai-assisted content creation tools; collaborate with cross-functional teams; manage content calendars and deadlines; track kpis and adjust strategies accordingly; ensure brand voice consistency; mentor junior content writers"
+  },
+  {
+    "id": 246,
+    "job_title": "content writer",
+    "combined_text": "content writer. develop and execute strategic content plans; create seo-optimized content across multiple formats; edit and proofread content for high quality; use analytics and marketing tools to measure performance; leverage ai tools to optimize content; collaborate with marketing, seo, and design teams; track kpis and performance metrics; manage content calendars and deadlines; ensure consistency of brand voice; mentor and train junior writers"
+  },
+  {
+    "id": 247,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. write clear and compelling copy for web, social media, and email; proofread and edit content for accuracy and clarity; adapt writing style to target audiences and brand voice; conduct basic research for content accuracy; apply basic seo and keyword usage; collaborate with marketing team; publish content using cms tools; use ai tools to enhance content creation; meet deadlines for multiple content pieces; learn content performance tracking basics"
+  },
+  {
+    "id": 248,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. produce engaging copy for campaigns; proofread and edit content; research for content accuracy and relevance; apply seo basics and keywords; adapt tone for brand consistency; collaborate with marketing and design teams; use cms to publish content; leverage ai tools for efficiency; manage multiple content deadlines; assist in content performance tracking"
+  },
+  {
+    "id": 249,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. develop persuasive and seo-optimized copy for multiple channels; edit and proofread content for accuracy and tone; conduct in-depth research for content relevance; ensure consistent brand voice across all materials; collaborate with marketing and design teams; use cms to manage content; leverage ai tools to enhance productivity; track content performance with analytics; provide creative input for campaigns; support junior copywriters"
+  },
+  {
+    "id": 250,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. write strategic, persuasive copy for campaigns and web content; ensure seo best practices are applied; conduct research to maintain factual accuracy; edit and proofread for quality and brand tone; collaborate with marketing, design, and seo teams; use cms and ai-assisted tools; maintain content calendars; track performance metrics; mentor junior writers; support campaign strategy development"
+  },
+  {
+    "id": 251,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. lead copywriting strategy across campaigns; create seo-optimized content for web, email, and social media; edit and proofread copy ensuring brand voice consistency; conduct research to enhance content relevance; collaborate with cross-functional teams; use cms and ai tools for content production; monitor content performance and adjust strategy; mentor and guide junior copywriters; manage deadlines and project timelines; support marketing strategy execution"
+  },
+  {
+    "id": 252,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. develop and execute comprehensive copywriting strategies; produce high-quality copy across multiple formats; apply seo best practices and track performance; edit and proofread content ensuring brand voice; collaborate with marketing, design, and product teams; utilize ai tools to enhance productivity and creativity; mentor junior copywriters; manage projects and content calendars; analyze content kpis and improve strategy; support integrated marketing campaigns"
+  },
+  {
+    "id": 253,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. write clear and compelling copy for campaigns; apply basic seo and keyword practices; research content topics; proofread and edit content; publish content using cms tools; adapt tone and style for different audiences; collaborate with marketing teams; use ai tools for content creation; meet content deadlines; ensure brand voice consistency"
+  },
+  {
+    "id": 254,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. write and optimize copy for campaigns and web; edit and proofread content ensuring quality; conduct research for accuracy and relevance; maintain brand voice consistency; collaborate with marketing and design teams; use cms and ai-assisted tools for publishing; track content performance; support content strategy development; mentor junior writers; manage multiple content deadlines"
+  },
+  {
+    "id": 255,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. lead copywriting and content strategy; produce seo-optimized copy across channels; edit and proofread content for quality and consistency; collaborate with cross-functional teams; leverage ai-assisted tools; track content kpis and improve performance; mentor junior copywriters; manage content calendars; ensure brand messaging consistency; support marketing campaign execution"
+  },
+  {
+    "id": 256,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. develop and execute content strategy; produce high-quality copy optimized for seo; edit and proofread content maintaining brand voice; integrate copy into multi-channel digital marketing campaigns; leverage ai tools for content generation; collaborate with cross-functional teams; mentor junior copywriters; track and analyze performance metrics; manage content projects and deadlines; support overall marketing strategy"
+  },
+  {
+    "id": 257,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. write clear and persuasive copy for websites, emails, and social media; apply basic seo principles and keyword usage; conduct research to ensure factual content; edit and proofread for clarity and accuracy; use cms to publish content; adapt tone to target audiences; collaborate with marketing and design teams; leverage ai tools for content creation; meet deadlines for multiple content pieces; support junior content projects"
+  },
+  {
+    "id": 258,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. develop compelling copy for campaigns, web, and social media; optimize content for seo and keyword relevance; conduct thorough research for accuracy; edit and proofread content; ensure brand voice consistency across all channels; collaborate with marketing, design, and seo teams; use cms and ai tools for content management; support content strategy planning; mentor junior copywriters; track performance and refine content strategies"
+  },
+  {
+    "id": 259,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. lead copywriting strategy and execution; create seo-optimized content across multiple channels; edit and proofread for quality and brand voice alignment; develop content for various formats: web, email, social media, video scripts; integrate copy into digital marketing campaigns; leverage ai-assisted content tools; mentor junior writers and provide feedback; manage content projects and deadlines; measure content performance using analytics tools; collaborate with cross-functional teams for content strategy"
+  },
+  {
+    "id": 260,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. develop comprehensive content strategies; produce high-quality copy optimized for seo and engagement; edit and proofread to maintain brand voice; create content for multiple formats including digital campaigns, blogs, and videos; integrate copy with marketing initiatives; use ai tools to enhance content production; lead and mentor content teams; manage projects, timelines, and deadlines; analyze content performance and adjust strategies; collaborate with cross-functional teams to align content with business goals"
+  },
+  {
+    "id": 261,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. create engaging copy for websites and social media; apply basic seo practices; research content topics for accuracy; edit and proofread copy; publish content using cms tools; adapt writing style to different audiences; collaborate with marketing teams; use ai writing tools to enhance productivity; manage content deadlines; support content performance tracking"
+  },
+  {
+    "id": 262,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. write persuasive and seo-optimized copy for campaigns; edit and proofread content; conduct research to ensure accuracy; maintain brand voice across all content; collaborate with marketing and design teams; use cms and ai tools for content production; support content strategy development; mentor junior writers; track content performance; create multi-format content"
+  },
+  {
+    "id": 263,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. lead content and copywriting strategy; create high-quality seo-optimized copy; edit and proofread to maintain brand voice; develop content for multiple formats; integrate copy with marketing campaigns; use ai tools to enhance content production; mentor junior writers; track kpis and analyze performance; manage projects and timelines; collaborate with cross-functional teams"
+  },
+  {
+    "id": 264,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. develop and execute content strategies; produce seo-optimized copy for digital campaigns; edit and proofread content ensuring brand consistency; create multi-format content including blogs, emails, and social media posts; integrate content with marketing strategy; leverage ai tools for content creation; lead and mentor content team; manage content projects and deadlines; analyze content performance and optimize; collaborate with cross-functional teams for strategic alignment"
+  },
+  {
+    "id": 265,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. create engaging copy for websites and social media; apply basic seo practices; research content topics; edit and proofread content; publish content using cms; adapt tone to audience; collaborate with marketing teams; leverage ai tools for writing; meet deadlines; support content tracking"
+  },
+  {
+    "id": 266,
+    "job_title": "copywriter",
+    "combined_text": "copywriter. write compelling, seo-optimized copy for campaigns; edit and proofread content; maintain brand voice consistency; conduct research for accuracy; collaborate with marketing and design teams; use cms and ai tools for content production; support content strategy development; mentor junior writers; track content performance; create multi-format content for digital channels"
+  },
+  {
+    "id": 267,
+    "job_title": "cybersecurity analyst",
+    "combined_text": "cybersecurity analyst. assist in monitoring network traffic; support in basic vulnerability scanning; help configure firewalls and ids tools; document incidents and responses; collaborate with team on risk assessments"
+  },
+  {
+    "id": 268,
+    "job_title": "junior security analyst",
+    "combined_text": "junior security analyst. assist in log monitoring; conduct basic malware scans; support compliance checks; assist in encryption setup; help prepare incident reports"
+  },
+  {
+    "id": 269,
+    "job_title": "cybersecurity intern",
+    "combined_text": "cybersecurity intern. assist in daily system monitoring; document and escalate incidents; learn and apply penetration testing basics; support vulnerability scans"
+  },
+  {
+    "id": 270,
+    "job_title": "associate cybersecurity analyst",
+    "combined_text": "associate cybersecurity analyst. help configure security policies; assist with incident logging; participate in security awareness programs; analyze basic threat alerts"
+  },
+  {
+    "id": 271,
+    "job_title": "entry-level security analyst",
+    "combined_text": "entry-level security analyst. perform basic threat analysis; document vulnerabilities; assist in antivirus updates; work with team on security awareness"
+  },
+  {
+    "id": 272,
+    "job_title": "trainee security analyst",
+    "combined_text": "trainee security analyst. assist in vulnerability assessments; support soc monitoring; prepare incident response drafts; shadow senior analysts"
+  },
+  {
+    "id": 273,
+    "job_title": "cybersecurity support analyst",
+    "combined_text": "cybersecurity support analyst. support in analyzing logs; assist in firewall updates; document cryptographic protocols; provide support in compliance audits"
+  },
+  {
+    "id": 274,
+    "job_title": "graduate security analyst",
+    "combined_text": "graduate security analyst. help detect malware; participate in vulnerability scanning; assist with incident triage; maintain threat logs"
+  },
+  {
+    "id": 275,
+    "job_title": "cybersecurity trainee",
+    "combined_text": "cybersecurity trainee. support penetration testing activities; learn and apply encryption methods; help configure intrusion detection systems; work with mentors on incident response"
+  },
+  {
+    "id": 276,
+    "job_title": "information security analyst - fresher",
+    "combined_text": "information security analyst - fresher. assist in security audits; help update security tools; support soc team with monitoring; participate in vulnerability management"
+  },
+  {
+    "id": 277,
+    "job_title": "cybersecurity analyst",
+    "combined_text": "cybersecurity analyst. lead soc operations; perform threat hunting; oversee risk assessments; ensure compliance with standards; reduce incident response times"
+  },
+  {
+    "id": 278,
+    "job_title": "senior security analyst",
+    "combined_text": "senior security analyst. conduct advanced threat detection; lead vulnerability management programs; ensure cloud infrastructure security; collaborate with cross-functional teams"
+  },
+  {
+    "id": 279,
+    "job_title": "lead cybersecurity analyst",
+    "combined_text": "lead cybersecurity analyst. lead incident response efforts; oversee compliance checks; mentor junior analysts; develop risk mitigation strategies"
+  },
+  {
+    "id": 280,
+    "job_title": "cybersecurity risk analyst",
+    "combined_text": "cybersecurity risk analyst. conduct enterprise-wide risk assessments; ensure compliance with gdpr and hipaa; automate risk reporting with scripts; recommend remediation strategies"
+  },
+  {
+    "id": 281,
+    "job_title": "cloud security analyst",
+    "combined_text": "cloud security analyst. secure multi-cloud environments; perform cloud-specific penetration testing; collaborate with devops teams; monitor compliance with cloud policies"
+  },
+  {
+    "id": 282,
+    "job_title": "information security specialist",
+    "combined_text": "information security specialist. conduct vulnerability assessments; respond to advanced threats; develop threat intelligence reports; automate incident response scripts"
+  },
+  {
+    "id": 283,
+    "job_title": "cyber defense analyst",
+    "combined_text": "cyber defense analyst. monitor soc; hunt advanced persistent threats; conduct malware reverse engineering; ensure compliance with pci-dss"
+  },
+  {
+    "id": 284,
+    "job_title": "senior incident response analyst",
+    "combined_text": "senior incident response analyst. lead incident investigations; perform digital forensics; coordinate response teams; develop incident response playbooks"
+  },
+  {
+    "id": 285,
+    "job_title": "principal security analyst",
+    "combined_text": "principal security analyst. manage enterprise security strategy; lead large-scale security operations; oversee compliance with multiple frameworks; mentor junior analysts"
+  },
+  {
+    "id": 286,
+    "job_title": "data analyst - fresher",
+    "combined_text": "data analyst - fresher. assist with data cleaning and exploratory data analysis; create reports; perform visualizations for internship projects"
+  },
+  {
+    "id": 287,
+    "job_title": "data analyst - fresher",
+    "combined_text": "data analyst - fresher. assist in cleaning datasets; build simple dashboards; perform exploratory analysis; support reporting tasks"
+  },
+  {
+    "id": 288,
+    "job_title": "data analyst - fresher",
+    "combined_text": "data analyst - fresher. support teams in analyzing datasets; perform data cleaning; visualize insights using tableau, power bi, and python"
+  },
+  {
+    "id": 289,
+    "job_title": "data analyst - fresher",
+    "combined_text": "data analyst - fresher. assist teams with sql queries; process data using python; build visual dashboards for analytics projects"
+  },
+  {
+    "id": 290,
+    "job_title": "data analyst - experienced",
+    "combined_text": "data analyst - experienced. lead analytics projects; develop predictive models; optimize etl pipelines; create advanced dashboards for stakeholders"
+  },
+  {
+    "id": 291,
+    "job_title": "data analyst - experienced",
+    "combined_text": "data analyst - experienced. design and implement advanced analytics solutions; optimize database performance; generate actionable insights for business teams"
+  },
+  {
+    "id": 292,
+    "job_title": "data analyst - experienced",
+    "combined_text": "data analyst - experienced. lead business intelligence projects; develop predictive models; manage etl processes; mentor junior analysts"
+  },
+  {
+    "id": 293,
+    "job_title": "data analyst - experienced",
+    "combined_text": "data analyst - experienced. develop advanced dashboards; optimize sql queries; implement etl workflows; provide data-driven recommendations to business leaders"
+  },
+  {
+    "id": 294,
+    "job_title": "data analyst - experienced",
+    "combined_text": "data analyst - experienced. lead analytics and bi projects; manage data pipelines; develop predictive models; mentor junior analysts"
+  },
+  {
+    "id": 295,
+    "job_title": "data analyst - experienced",
+    "combined_text": "data analyst - experienced. design and implement analytics dashboards; optimize data workflows; lead data initiatives across teams"
+  },
+  {
+    "id": 296,
+    "job_title": "data analyst - experienced",
+    "combined_text": "data analyst - experienced. manage large-scale analytics projects; implement predictive models; optimize sql and etl workflows; provide insights to business leadership"
+  },
+  {
+    "id": 297,
+    "job_title": "data engineer",
+    "combined_text": "data engineer. assist in developing basic etl pipelines; support database management tasks; work on structured and unstructured data; collaborate with senior engineers on big data tools; learn and apply cloud platform fundamentals"
+  },
+  {
+    "id": 298,
+    "job_title": "data engineer",
+    "combined_text": "data engineer. assist in building simple data pipelines; support etl processes; perform data cleaning and preprocessing; help in maintaining nosql and relational databases; participate in data modeling exercises"
+  },
+  {
+    "id": 299,
+    "job_title": "data engineer",
+    "combined_text": "data engineer. work with structured query languages; support pipeline development; assist in cloud data storage integration; collaborate with developers on data validation; apply problem-solving to debug issues"
+  },
+  {
+    "id": 300,
+    "job_title": "data engineer",
+    "combined_text": "data engineer. assist in maintaining data warehouses; perform sql query optimization under guidance; help in data ingestion tasks; learn workflow orchestration basics; support analytics team with clean data"
+  }
+]
